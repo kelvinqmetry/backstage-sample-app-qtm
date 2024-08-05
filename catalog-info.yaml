@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-sample-app-qtm
+  annotations:
+    github.com/project-slug: kelvinqmetry/backstage-sample-app-qtm
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
